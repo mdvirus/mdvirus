@@ -22,3 +22,12 @@ Mainly I do competitive programming and I am pretty good at it. Beside that, I d
 <a href="https://github.com/mdvirus/Guess-The-Quantity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mdvirus&repo=Guess-The-Quantity"></a>
 
 <a href="https://github.com/hmsplc/hmsplc.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hmsplc&repo=hmsplc.github.io"></a>
+
+## Visit my website
+### https://mdvirus.wordpress.com
+
+<br>
+<br>
+
+## Follow me
+<a href="https://facebook.com/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg"></a> <a href="https://instagram.com/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a> <a href="https://linkedin.com/in/mushfiqur-rahman-3b7680176"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a> <a href="https://m.youtube.com/channel/UCLVLkUbvRxkbF-Th3YwOV1Q"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"></a>
