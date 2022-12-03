@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 # Hello World
-I am Md. Mushfiqur Rahman (also known as mdvirus). I am a programmer, developer, writer and speaker. I learned basic programming in 2016. Though I was a high-school student then, I only focused on competitive programming. I have competed in 7+ national level programming contests with a result of being at top 12 in the ranklist. I also regularly attend online programming contests in popular online judges. Recently I started my developing journey. Because I think, now I can use my competitive programming skills into this.
+I am Md. Mushfiqur Rahman (also known as mdvirus). I am a competitive programmer, developer, designer and writer. I started learning programming in 2016. Though I was a high-school student then, I only focused on competitive programming. I have competed in 9+ national level programming contests with a result of being at top 12 in the ranklist. I also regularly attend online programming contests in popular online judges. Recently I started my developing journey. Because I think, now I can use my competitive programming skills into this.
 
 Mainly I do competitive programming and I am pretty good at it. Beside that, I develop Web applications, Windows applications, Android applications and Websites. I teach competitive programming too. I have also set many programming problems in Programming Contests. Currently I am studying. So I am ready to take part in developing projects as a part timer.
 
@@ -21,13 +21,11 @@ Mainly I do competitive programming and I am pretty good at it. Beside that, I d
 
 <a href="https://github.com/mdvirus/Guess-The-Quantity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mdvirus&repo=Guess-The-Quantity"></a>
 
-<a href="https://github.com/hmsplc/hmsplc.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hmsplc&repo=hmsplc.github.io"></a>
-
 ## Visit my website
-### https://mdvirus.wordpress.com
+### https://mushfiqur303.blogspot.com
 
 <br>
 <br>
 
 ## Follow me
-<a href="https://facebook.com/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg"></a> <a href="https://instagram.com/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"></a> <a href="https://linkedin.com/in/mushfiqur-rahman-3b7680176"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a> <a href="https://m.youtube.com/channel/UCLVLkUbvRxkbF-Th3YwOV1Q"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"></a>
+<a href="https://facebook.com/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg"></a> <a href="https://linkedin.com/in/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"></a> <a href="https://behance.net/mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/behance.svg"></a> <a href="https://youtube.com/@mushfiqur303"><img width="40px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg"></a>
