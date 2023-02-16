@@ -22,7 +22,7 @@ Mainly I do competitive programming and I am pretty good at it. Beside that, I d
 <a href="https://github.com/mdvirus/Guess-The-Quantity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mdvirus&repo=Guess-The-Quantity"></a>
 
 ## Visit my website
-### https://mushfiqur303.blogspot.com
+### https://mdvirus.github.io
 
 <br>
 <br>
